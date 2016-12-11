@@ -1,0 +1,6 @@
+[package]
+name = "ct_asm"
+version = "0.1.0"
+authors = ["valarauca <codylaeder@gmail.com>"]
+
+[dependencies]
